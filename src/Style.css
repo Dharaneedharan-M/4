@@ -1,0 +1,18 @@
+.Block{
+    align-items: center;
+     
+}
+.Travel{ 
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    align-items: center;
+    -ms-ime-align: center;
+    size: 12px;
+    border-bottom: 1px solid ;
+    color: rgb(57, 24, 244);
+
+    object-fit: cover;
+    width: 50%;
+    height: 100%;;
+}
